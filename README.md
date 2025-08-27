@@ -1,4 +1,4 @@
-# hybrid_amm
+# Frontend of Amm
 
 This is a Next.js app containing:
 
